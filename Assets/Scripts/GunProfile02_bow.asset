@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3727eaf0540e30488e54def7bc28d6e, type: 3}
+  m_Name: GunProfile02_bow
+  m_EditorClassIdentifier: 
+  _weaponName: Bow
+  _weaponPrefab: {fileID: 1982539242152623254, guid: 5d38df0be7f114e4f8ae0cb5ae89ede4, type: 3}
+  _bulletPrefab: {fileID: 4899776748505849584, guid: 9ee062d612f1b314692ae099d5785124, type: 3}
+  _myID: 1
+  _maxBulletRange: 100
+  _inClip: 1
+  _munMaxInClip: 1
+  _munInBag: 100
+  _munMaxInBag: 100
+  _weaponReloadTime: 1
+  _fireRate: 0.1
+  _bulletSpeed: 1000
+  _needLoading: 1
+  _damage: 20

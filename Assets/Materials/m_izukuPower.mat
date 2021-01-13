@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: m_izukuPower
+  m_Shader: {fileID: 4800000, guid: fe13d510c64cf68408652fbcf376b6e8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _EdgeLength: 15
+    - _Fbias: 0.24
+    - _Float0: 1.6
+    - _Fpower: 1.38
+    - _Fscale: -0.03
+    - __dirty: 0
+    - _ajust: 0.000001
+    - _angle: 1
+    - _bias: 0.36
+    - _emissivePower: 0.94
+    - _outlineWidth: 0.2
+    - _outlineWidth3: 1.86
+    - _power: 5
+    - _scale: 1
+    - _step: 0.2
+    - _step1: 0.17
+    - _vertexPos: 0.8
+    - _voronoi: 0.14
+    m_Colors:
+    - _Color0: {r: 0, g: 1, b: 0.517647, a: 1}
+    - _Color1: {r: 1, g: 0, b: 0, a: 1}
+    - _Color2: {r: 1, g: 0.41037738, b: 0.41037738, a: 1}
+    - _Vector0: {r: 0, g: 0.05, b: 0, a: 0}
+    - _bsp: {r: 0.68, g: 0.35, b: 0.97, a: 0}
+    - _dir: {r: 2.57, g: 0.28, b: 0, a: 0}
+    - _offset: {r: 1, g: 1, b: 0, a: 0}
+    - _offset1: {r: 4, g: 4, b: 0, a: 0}
+    - _tiling: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
